@@ -10,7 +10,7 @@ const gameState = {};
 
 function preload() {
   // load zombie 
-   this.load.image('platform', './assets/images/zombie.png');
+   this.load.image('zombie', './assets/images/zombie.png');
   //load plate form 
   this.load.image('platform', './assets/images/platform.png');
 // load road
